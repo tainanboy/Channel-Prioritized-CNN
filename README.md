@@ -1,1 +1,1 @@
-# IDP
+# Channel-Prioritized-CNN
